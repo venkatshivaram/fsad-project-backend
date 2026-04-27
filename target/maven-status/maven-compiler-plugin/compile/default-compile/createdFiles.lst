@@ -1,4 +1,5 @@
 com\student\scheduling\entity\RegistrationRequest.class
+com\student\scheduling\controller\HealthController.class
 com\student\scheduling\config\SecurityConfig.class
 com\student\scheduling\controller\InstructorController.class
 com\student\scheduling\entity\Course.class
