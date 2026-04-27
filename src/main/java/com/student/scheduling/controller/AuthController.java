@@ -18,7 +18,7 @@ import java.util.Optional;
 import java.util.UUID;
 
 @RestController
-@RequestMapping("/api/auth")
+@RequestMapping({"/api/auth", "/auth"})
 @Tag(name = "Authentication", description = "Public endpoints for account signup, login, and password reset")
 public class AuthController {
 
